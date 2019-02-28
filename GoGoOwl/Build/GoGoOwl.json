@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "GoGoOwl.data.unityweb",
+"asmCodeUrl": "GoGoOwl.asm.code.unityweb",
+"asmMemoryUrl": "GoGoOwl.asm.memory.unityweb",
+"asmFrameworkUrl": "GoGoOwl.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#222C36"
+}
